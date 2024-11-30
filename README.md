@@ -27,9 +27,9 @@ I’m a passionate Software Engineer with a focus on **Python**, **JavaScript**,
 
 ## 🎯 GitHub Stats & Activity
 
-![vincentcai26 GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide_rank=true&hide=prs&theme=transparent)
+![vincentcai26 GitHub Stats](https://github-readme-stats.vercel.app/api?username=vincentcai26&show_icons=true&hide_title=true&hide_rank=true&hide=prs&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=4&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentcai26&layout=compact&langs_count=4&theme=transparent)
 
 ---
 
