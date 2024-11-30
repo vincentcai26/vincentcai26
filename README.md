@@ -4,17 +4,6 @@ Welcome to my GitHub! This account contains some of the previous projects I have
 
 I’m a passionate Software Engineer with a focus on **Python**, **JavaScript**, **C++**, and **Java**. I love building clean, efficient, and scalable code, and I'm always eager to learn new technologies.
 
-🔭 **Currently working on**:
-- Developing full-stack web applications using JavaScript (React, Node.js)
-- Contributing to open-source projects that focus on machine learning and AI (Python-based)
-- Working on C++ performance optimization for game engines
-- Exploring Kotlin/Java for Android mobile development
-
-🌱 **Learning**:
-- **Rust** and **Go** for systems programming
-- Exploring **Blockchain** and **Web3** technologies
-- Improving my **cloud computing** skills with AWS and Azure
-
 ---
 
 ## 🌐 Technologies & Languages
@@ -38,11 +27,16 @@ I’m a passionate Software Engineer with a focus on **Python**, **JavaScript**,
 
 ## 🎯 GitHub Stats & Activity
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide_rank=true&hide=prs&theme=transparent)
+![vincentcai26 GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&hide_rank=true&hide=prs&theme=transparent)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=4&theme=transparent)
 
 ---
+
+🌱 **Currently Learning**:
+- Deep learning techniques for computer vision
+- Mathematical foundations of machine learning
+- FPGA and Verilog Programming
 
 ## 🚀 My Projects
 
