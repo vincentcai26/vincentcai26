@@ -74,7 +74,7 @@ You can reach me at:
 
 ## 💻 GitHub Activity
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=github)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vincentcai26&theme=github)
 
 ---
 
