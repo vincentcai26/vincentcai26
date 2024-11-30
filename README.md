@@ -6,14 +6,14 @@ Welcome to my GitHub! This account contains some of the previous projects I have
 
 ## 🌐 Technologies & Languages
 
-**Primary Languages I've worked with:**
+**Some Languages I've worked with:**
 
 - ![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 - ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
-**Technologies I've worked with:**
+**Some (of many) Technologies I've worked with:**
 
 - ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
