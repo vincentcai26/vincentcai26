@@ -25,13 +25,15 @@ I’m a passionate Software Engineer with experience in **Python**, **JavaScript
 
 ---
 
-## 🎯 GitHub Stats & Activity
+<!--## 🎯 GitHub Stats & Activity
 
 ![vincentcai26 GitHub Stats](https://github-readme-stats.vercel.app/api?username=vincentcai26&show_icons=true&hide_title=true&hide_rank=true&hide=prs&theme=transparent)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentcai26&layout=compact&langs_count=4&theme=transparent)
 
 ---
+
+-->
 
 🌱 **Currently Learning**:
 - Deep learning techniques for computer vision
@@ -46,10 +48,7 @@ Here are a few of my favorite projects:
 [GitHub Repository](#)  
 A short description of the project. Technologies: **Python**, **JavaScript**, **Django**
 
-![Project Image](https://via.placeholder.com/500x300?text=Project+Image)
 
 ### 2. **Project Name**
 [GitHub Repository](#)  
 A short description of the project. Technologies: **C++**, **OpenGL**
-
-![Project Image](https://via.placeholder.com/500x300?text=Project+Image)
