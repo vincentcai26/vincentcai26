@@ -8,7 +8,7 @@ I’m a passionate Software Engineer with a focus on **Python**, **JavaScript**,
 
 ## 🌐 Technologies & Languages
 
-**Languages I've worked with:**
+**Primary Languages I've worked with:**
 
 - ![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
@@ -53,37 +53,3 @@ A short description of the project. Technologies: **Python**, **JavaScript**, **
 A short description of the project. Technologies: **C++**, **OpenGL**
 
 ![Project Image](https://via.placeholder.com/500x300?text=Project+Image)
-
----
-
-## 💬 Let's Connect!
-
-You can reach me at:
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-
----
-
-## ✨ Fun Facts
-
-- I love solving complex problems (probably why I love programming!)
-- When I’m not coding, you’ll find me playing chess or building personal projects.
-- I’m an advocate for **Clean Code** and always try to write code that is simple, readable, and scalable.
-
----
-
-## 💻 GitHub Activity
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=vincentcai26&theme=github)
-
----
-
-## 🎥 Check Out My Coding Animations!
-
-Here’s a fun animation of me working on a Python project! (Note: Replace the link with an actual animated GIF from your own projects.)
-
-![Animation GIF](https://via.placeholder.com/600x400?text=Coding+Animation+Here)
-
----
-
-Thank you for visiting my GitHub! 👨‍💻
