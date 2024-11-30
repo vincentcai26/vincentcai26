@@ -2,8 +2,6 @@
 
 Welcome to my GitHub! This account contains some of the previous projects I have built outside of school or research. 
 
-I’m a passionate Software Engineer with experience in **Python**, **JavaScript**, **C++**, and **Java**. I love building clean, efficient, and scalable code, and I'm always eager to learn new technologies.
-
 ---
 
 ## 🌐 Technologies & Languages
