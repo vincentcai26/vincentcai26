@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Vincent!
 
-Welcome to my GitHub! This account contains some of the previous projects I have built outside of school or research. 
+### Welcome to my GitHub! This account contains some of the previous projects I have built outside of school or research. 
 
 ---
 
