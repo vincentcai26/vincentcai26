@@ -1,6 +1,9 @@
-## Hi there 👋, I'm Vincent!
+# Hi there 👋, I'm Vincent!
 
-Welcome to my GitHub! Below are some of the previous projects I have built outside of school or research:
+Welcome to my GitHub! This account contains some of the previous projects I have built outside of school or research. 
+
+
+
 
 <!--
 **vincentcai26/vincentcai26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
