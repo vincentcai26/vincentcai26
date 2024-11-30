@@ -42,11 +42,12 @@ Welcome to my GitHub! This account contains some of the previous projects I have
 
 Here are a few of my favorite projects:
 
-### 1. **Project Name**
+### 1. **Princeton Qublitz**
 [GitHub Repository](#)  
-A short description of the project. Technologies: **Python**, **JavaScript**, **Django**
 
+Website for Princeton and IBM's quantum hackathon, part of Qiskit Fall Fest 2024.
 
-### 2. **Project Name**
+### 2. **Translationeer**
 [GitHub Repository](#)  
-A short description of the project. Technologies: **C++**, **OpenGL**
+
+Custom web-based application to edit and structure ancient Latin translations.
