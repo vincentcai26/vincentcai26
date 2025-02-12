@@ -33,6 +33,5 @@
 -->
 
 🌱 **Currently Learning**:
-- Deep learning techniques for computer vision
-- Mathematical foundations of machine learning
+- Acceleration techniques for deep learning
 - FPGA and Verilog Programming
